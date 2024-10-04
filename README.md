@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roopesh
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on python, c++
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
