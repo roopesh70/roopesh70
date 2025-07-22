@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roopesh
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c,html,css,js
-- 💞️ I’m looking to collaborate on python, c ,html,css,js
+- 🌱 I’m currently learning java,c
+- 💞️ I’m looking to collaborate on python, c ,html,css,js,java
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
